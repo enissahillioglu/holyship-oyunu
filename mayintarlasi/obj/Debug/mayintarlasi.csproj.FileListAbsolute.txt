@@ -1,0 +1,5 @@
+C:\Users\Red\Desktop\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.bilgi.resources
+C:\Users\Red\Desktop\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.dizayn.resources
+C:\Users\Red\Desktop\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.Form1.resources
+C:\Users\Red\Desktop\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.haritaDizayn.resources
+C:\Users\Red\Desktop\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.csproj.GenerateResource.Cache
